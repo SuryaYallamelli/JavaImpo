@@ -1,3 +1,5 @@
+// program to replace the with 'i' character in the place of 'e' character.
+
 import java.util.*;
 
 class practice{
